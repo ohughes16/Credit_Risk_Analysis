@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Overview of the analysis
-I have been working on training and evaluating models with unbalanced classes for different credit card risk approval models. We analyzed oversampling (ROS and SMOTE) and undersampling(ClusterCentroids) the data as well as a combinatorial approach that both oversamples and undersamples (SMOTEENN) the data. We then compared two models that reduce bias, the BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. I will then provide a recommendation on whether they should be used to predict credit risk and the 
+I have been working on training and evaluating models with unbalanced classes for different credit risk loan approval models. This is an unbalanced classification problem as good loans outnumber risky loans. We analyzed oversampling (ROS and SMOTE) and undersampling (ClusterCentroids) the data as well as a combinatorial approach that both oversamples and undersamples (SMOTEENN) the data. We then compared two models that reduce bias, the BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. I will then provide a recommendation on whether these models should be used to predict credit risk.
 
 ## Results: The balanced accuracy scores and the precision and recall scores of all six machine learning models. 
 
