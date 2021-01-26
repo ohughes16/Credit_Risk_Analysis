@@ -35,7 +35,7 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 ![UndersamplingCC_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105881699-d10d1b00-5fd2-11eb-864d-431bc0d8e01f.PNG)
 
-### Under and Over Sampling (SOTEENN)
+### Under and Over Sampling (SMOTEENN)
 
 - Balanced Accuracy Score
 
