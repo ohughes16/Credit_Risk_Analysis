@@ -15,7 +15,7 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 ![ROS_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105878461-14fe2100-5fcf-11eb-94dc-1abbc2147990.PNG)
 
-### SMOTE
+### Synthetic Minority Oversampling Technique (SMOTE)
 
 - Balanced Accuracy Score
 
@@ -29,11 +29,11 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 - Balanced Accuracy Score
 
-![Undersampling_BAS](https://user-images.githubusercontent.com/64506842/105878464-14fe2100-5fcf-11eb-97e5-1e02ecb5b5b9.PNG)
+![UndersamplingCC_BAS](https://user-images.githubusercontent.com/64506842/105881700-d10d1b00-5fd2-11eb-969c-b6f42a9852de.PNG)
 
 - Imbalanced Classification Report
 
-![Undersampling_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105878466-1596b780-5fcf-11eb-808e-b3d6bfe68a53.PNG)
+![UndersamplingCC_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105881699-d10d1b00-5fd2-11eb-864d-431bc0d8e01f.PNG)
 
 ### Under and Over Sampling (SOTEENN)
 
