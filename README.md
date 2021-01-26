@@ -59,11 +59,11 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 - Balanced Accuracy Score
 
-![EEC_BAS](https://user-images.githubusercontent.com/64506842/105878477-162f4e00-5fcf-11eb-9653-6337448ce6c6.PNG)
+![EEC_BAS](https://user-images.githubusercontent.com/64506842/105887361-a2467300-5fd9-11eb-8a96-e8703a939e53.PNG)
 
 - Imbalanced Classification Report
 
-![EEC_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105878478-162f4e00-5fcf-11eb-982e-fe9b72c5bb34.PNG)
+![EEC_imbalanced_classification_report](https://user-images.githubusercontent.com/64506842/105887362-a2df0980-5fd9-11eb-8c71-2a6e5521ef4f.PNG)
 
 ## Summary: Summary of the results of the machine learning models, recommendation on the model to use.
 
