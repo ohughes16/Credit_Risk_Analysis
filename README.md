@@ -67,4 +67,4 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 ## Summary: Summary of the results of the machine learning models, recommendation on the model to use.
 
-
+The above balanced accuracy scores and imbalanced classification reports for the various machine learning models are above. When deciding on which model to use to determine, we must decide what is more important with this algorithm: Do we want high precision or high sensitivity when screening loan applicants for credit risk?
