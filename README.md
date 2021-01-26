@@ -5,7 +5,7 @@ I have been working on training and evaluating models with unbalanced classes fo
 
 ## Results: The balanced accuracy scores and the precision and recall scores of all six machine learning models. 
 
-### Random Oversampling 
+### Random Oversampling (ROS)
 
 - Balanced Accuracy Score
 
